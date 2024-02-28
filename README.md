@@ -1,0 +1,2 @@
+# messagingBoard
+This is djangomessagingBoardapp
